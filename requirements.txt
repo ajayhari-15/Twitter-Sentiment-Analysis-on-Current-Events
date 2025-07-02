@@ -1,0 +1,7 @@
+tweepy
+pandas
+textblob
+nltk
+matplotlib
+Flask
+scikit-learn
